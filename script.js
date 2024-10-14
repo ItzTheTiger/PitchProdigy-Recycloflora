@@ -1,3 +1,5 @@
+alert("Please resize the window to 67% for optimal experience")
+
 const magneto = document.querySelector('.magneto')
 const magnetoText = document.querySelector('.magneto .text')
 const dbgr = document.querySelector('#debugger')
